@@ -27,5 +27,10 @@
 - Valid C identifier
  7. [i) Find the character which has the highest frequency in a given paragraph that is written in code1.c file
  ii) Create a lexical analyzer that can identify the following verbs and their frequency in a paragraph written in the English language. The paragraph is written in code1.c file]()
+ 8. [Creating a Syntax Analyzer: For Addition and Subtraction]()
+ 8. []()
+ 8. []()
+ 8. []()
+ 8. []()
  8. []()
 
