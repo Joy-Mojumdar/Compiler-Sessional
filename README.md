@@ -9,9 +9,14 @@
 ### CODES 
  1. [A simple lexical analyzer]() 
  2. [A simple lexical analyzer that takes input form a file called "code.c"]()
- 3. []()
- 4. []()
- 5. []()
+ 3. [Custom Lab Task - Lexical analyzer for (Numbers ends with Even/binary numbers/vowels/custom range ip/Valid C identifiers.]()
+ 4. [Create regular expressions for accepting the following strings:
+a. Numbers or digits i.e. 123, 999 etc.
+b. Any string that starts with a capital letter, e.g., And, B04, Call etc.
+c. Any string that has an operator somewhere in it, e.g., a+b, a++, 2--, *b/ etc.
+d. Any double/float numbers, e.g., 23.343, 99.999 etc.
+e. Any string that starts and ends with a vowel, e.g., apostle, oscillate etc.]()
+ 5. [Create a lex program that will count the number of variables, variable types, operators and digits separately.]()
  6. []()
  7. []()
  8. []()
