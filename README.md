@@ -1,4 +1,11 @@
-# Compiler Sessional
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://i.imgur.com/HDbxTHc.png" alt="COMPILER SESSIONAL"></a>
+  <br>
+  Compiler Sessional
+  <br>
+</h1>
+
 
 ### Contributors
 
