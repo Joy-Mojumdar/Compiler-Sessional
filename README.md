@@ -3,6 +3,7 @@
 ### Contributors
 
 A) [Novojit Das](https://github.com/novojitdas)
+
 B) [Joy Mojumder](https://github.com/Joy-Mojumdar)
  
  1. [A simple lexical analyzer]() 
