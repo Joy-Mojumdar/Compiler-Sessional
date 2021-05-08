@@ -39,11 +39,11 @@
  10. [Creating a Syntax Analyzer: For Integer Numbers](https://github.com/novojitdas/Compiler-Sessional/tree/main/10)
  11. [An Advanced Syntax Analyzer with Symbol Table](https://github.com/novojitdas/Compiler-Sessional/tree/main/11)
  12. [An Advanced Syntax Analyzer for Custom Syntax - FOR LOOP](https://github.com/novojitdas/Compiler-Sessional/tree/main/12)
- 8. [Create a Syntax Analyzer that can:]()
+ 13. [Create a Syntax Analyzer that can:](https://github.com/novojitdas/Compiler-Sessional/tree/main/13)
  - Is the grammar ambiguous? If yes, then transform the grammar so that correct precedence and associativity is followed.
  - Transform the code so that, the operations can be done on double numbers too.
-14. [Creating a Syntax Analyzer that Is the grammar ambiguous and sqrt function ]()
-15. []()
-16. []()
-17. []()
+14. [Creating a Syntax Analyzer that Is the grammar ambiguous and sqrt function ](https://github.com/novojitdas/Compiler-Sessional/tree/main/14)
+15. [Lab Final](https://github.com/novojitdas/Compiler-Sessional/tree/main/15)
+16. [Lab Assignment](https://github.com/novojitdas/Compiler-Sessional/tree/main/16)
+17. [Lab Mid](https://github.com/novojitdas/Compiler-Sessional/tree/main/17)
 
